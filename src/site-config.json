@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Go Iron Works Inc.",
+    "phone": "+15625361755",
+    "category": "fence contractor",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Ironclad Fence Experts",
+      "heroSubline": "Durable, custom fences built to withstand the California climate. Serving Los Angeles County with unwavering quality and craftsmanship.",
+      "aboutTitle": "Decades of Hard Work, Lasting Results",
+      "aboutText": [
+        "Go Iron Works Inc. isn't just another fence contractor; we're a team of seasoned professionals who understand the unique challenges of building in Southern California. Founded over a decade ago in Long Beach, we've built our reputation on delivering exceptional quality and unparalleled service to homeowners and businesses throughout the region.",
+        "Our approach is simple: understand your needs, design a solution that fits your property and budget, and execute the project with precision and care. We believe in open communication, transparent pricing, and a commitment to exceeding your expectations every step of the way. We handle everything from initial consultation and permitting to final inspection and cleanup.",
+        "We're proud to be a part of the Long Beach community, and we're committed to giving back. We source our materials locally whenever possible, and we actively support local initiatives that promote sustainable building practices and community development. When you choose Go Iron Works Inc., you're choosing a partner who cares about quality, integrity, and the well-being of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "Unwavering Durability",
+          "description": "Built to withstand Long Beach's intense sun, Santa Ana winds, and seismic activity."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Tailored to complement your property's architecture and enhance its curb appeal."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise and secure installation for long-lasting performance."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront quotes with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Secure Your Property Today",
+      "ctaSubline": "Get a free, no-obligation quote for your fence project. Call us now!"
+    },
+    "services": [
+      {
+        "slug": "wrought-iron-fences",
+        "name": "Wrought Iron Fences",
+        "shortDescription": "Elegant, durable security with timeless appeal.",
+        "description": "Wrought iron fences offer a combination of security, beauty, and longevity unmatched by other fencing materials. Ideal for the diverse architectural styles found in Long Beach, from the historic Craftsman homes of Belmont Shore to the modern waterfront developments, wrought iron adds a touch of sophistication while providing a robust barrier against intruders. Our wrought iron fences are custom-designed and fabricated to your exact specifications, ensuring a perfect fit for your property and aesthetic preferences.\n\nWe use only the highest-quality materials and employ skilled craftsmen to create fences that are not only beautiful but also built to last. Our wrought iron fences are treated with a protective coating to resist rust and corrosion, ensuring years of trouble-free performance in Long Beach's challenging coastal environment. We also offer a variety of decorative options, including ornamental scrolls, finials, and custom gates, to further enhance the beauty and functionality of your fence.\n\nFrom initial design to final installation, our team will work closely with you to ensure your complete satisfaction. We handle all aspects of the project, including permitting, site preparation, and post-installation cleanup. Invest in the timeless elegance and enduring security of a wrought iron fence from Go Iron Works Inc.",
+        "process": [
+          "Step 1: Consultation and Design: We discuss your needs, preferences, and budget, and create a custom design for your wrought iron fence.",
+          "Step 2: Fabrication: Our skilled craftsmen fabricate your fence using high-quality materials and time-tested techniques.",
+          "Step 3: Installation: Our experienced team installs your fence with precision and care, ensuring a secure and long-lasting installation.",
+          "Step 4: Finishing: We apply a protective coating to resist rust and corrosion, ensuring years of trouble-free performance."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Increased Property Value",
+          "Timeless Beauty",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a wrought iron fence?",
+            "answer": "The installation time depends on the size and complexity of the project, but typically ranges from a few days to a week."
+          },
+          {
+            "question": "Are wrought iron fences expensive?",
+            "answer": "Wrought iron fences are a premium fencing option, but their durability and longevity make them a worthwhile investment in the long run."
+          },
+          {
+            "question": "Do you offer custom gate designs?",
+            "answer": "Yes, we offer a wide variety of custom gate designs to match your fence and enhance your property's curb appeal."
+          }
+        ]
+      },
+      {
+        "slug": "chain-link-fences",
+        "name": "Chain Link Fences",
+        "shortDescription": "Affordable, practical security for residential and commercial properties.",
+        "description": "Chain link fences are a cost-effective and versatile solution for securing your property in Long Beach. Ideal for both residential and commercial applications, chain link offers reliable security without obstructing views. Go Iron Works Inc. provides professional chain link fence installation services tailored to your specific needs and budget.\n\nWe offer a variety of chain link options, including different gauges of wire, mesh sizes, and heights, to ensure your fence meets your security requirements. We also offer vinyl-coated chain link in a variety of colors to enhance the aesthetic appeal of your property. Our experienced team will handle all aspects of the installation process, from site preparation to final inspection, ensuring a secure and long-lasting fence.\n\nWhether you need a simple backyard fence to keep children and pets safe, or a high-security fence for your commercial property, Go Iron Works Inc. has the expertise and experience to get the job done right. We understand the importance of security, and we're committed to providing our customers with the highest quality chain link fences at competitive prices. Protect your property with a durable and reliable chain link fence from Go Iron Works Inc.",
+        "process": [
+          "Step 1: Site Assessment: We assess your property and determine the best location and height for your chain link fence.",
+          "Step 2: Material Selection: We help you choose the right gauge of wire, mesh size, and coating for your specific needs.",
+          "Step 3: Installation: Our experienced team installs your fence with precision and care, ensuring a secure and long-lasting installation.",
+          "Step 4: Cleanup: We clean up the job site and remove all debris, leaving your property looking its best."
+        ],
+        "benefits": [
+          "Affordable Security",
+          "Durable and Long-lasting",
+          "Versatile Applications",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "How long does a chain link fence last?",
+            "answer": "With proper maintenance, a chain link fence can last for 20 years or more."
+          },
+          {
+            "question": "Can I install a chain link fence myself?",
+            "answer": "While it's possible to install a chain link fence yourself, it's recommended to hire a professional to ensure a secure and long-lasting installation."
+          },
+          {
+            "question": "Do you offer gates for chain link fences?",
+            "answer": "Yes, we offer a variety of gates for chain link fences, including swing gates and sliding gates."
+          }
+        ]
+      },
+      {
+        "slug": "wood-fences",
+        "name": "Wood Fences",
+        "shortDescription": "Classic style and privacy for Long Beach homes.",
+        "description": "Wood fences offer a timeless aesthetic and provide excellent privacy for Long Beach homes. From traditional picket fences to solid privacy fences, Go Iron Works Inc. offers a wide range of wood fencing options to suit your style and budget. We understand the importance of using high-quality materials that can withstand the Southern California climate, including the intense sun and occasional Santa Ana winds.\n\nWe use pressure-treated lumber that is resistant to rot and decay, ensuring your fence will last for years to come. We also offer a variety of staining and painting options to protect your fence from the elements and enhance its beauty. Our experienced team will handle all aspects of the installation process, from site preparation to final cleanup, ensuring a professional and long-lasting fence.\n\nWhether you're looking to add curb appeal to your home, create a private backyard oasis, or simply define your property lines, a wood fence from Go Iron Works Inc. is a great investment. We're committed to providing our customers with the highest quality wood fences at competitive prices. Enhance your property with a beautiful and functional wood fence from Go Iron Works Inc.",
+        "process": [
+          "Step 1: Design Consultation: We discuss your style preferences, privacy needs, and budget to create a custom wood fence design.",
+          "Step 2: Material Selection: We help you choose the right type of wood, stain, and hardware for your specific needs.",
+          "Step 3: Installation: Our experienced team installs your fence with precision and care, ensuring a secure and long-lasting installation.",
+          "Step 4: Finishing: We apply a stain or paint to protect your fence from the elements and enhance its beauty."
+        ],
+        "benefits": [
+          "Enhanced Privacy",
+          "Classic Aesthetic",
+          "Affordable Option",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How often do I need to stain or paint my wood fence?",
+            "answer": "It's recommended to stain or paint your wood fence every 2-3 years to protect it from the elements."
+          },
+          {
+            "question": "What type of wood is best for fences in Long Beach?",
+            "answer": "Pressure-treated redwood or cedar are excellent choices for wood fences in Long Beach due to their natural resistance to rot and decay."
+          },
+          {
+            "question": "Can you match the stain color of my existing fence?",
+            "answer": "Yes, we can match the stain color of your existing fence to ensure a seamless look."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-fences",
+        "name": "Vinyl Fences",
+        "shortDescription": "Low-maintenance privacy and style in Southern California.",
+        "description": "Vinyl fences offer a durable, low-maintenance alternative to wood fences, making them an ideal choice for busy homeowners in Long Beach. Vinyl fences are resistant to rot, decay, and insect damage, and they never need to be painted or stained. Go Iron Works Inc. offers a wide variety of vinyl fencing styles, including privacy fences, picket fences, and ranch rail fences, to suit your style and budget.\n\nOur vinyl fences are made from high-quality materials that are designed to withstand the Southern California climate, including the intense sun and occasional Santa Ana winds. They are also UV-resistant, so they won't fade or discolor over time. Our experienced team will handle all aspects of the installation process, from site preparation to final inspection, ensuring a professional and long-lasting fence.\n\nIf you're looking for a fence that is both beautiful and easy to care for, a vinyl fence from Go Iron Works Inc. is a great choice. We're committed to providing our customers with the highest quality vinyl fences at competitive prices. Enjoy the beauty and convenience of a vinyl fence from Go Iron Works Inc.",
+        "process": [
+          "Step 1: Design Consultation: We discuss your style preferences, privacy needs, and budget to create a custom vinyl fence design.",
+          "Step 2: Material Selection: We help you choose the right style, color, and height of vinyl fence for your specific needs.",
+          "Step 3: Installation: Our experienced team installs your fence with precision and care, ensuring a secure and long-lasting installation.",
+          "Step 4: Cleanup: We clean up the job site and remove all debris, leaving your property looking its best."
+        ],
+        "benefits": [
+          "Low Maintenance",
+          "Durable and Long-lasting",
+          "Variety of Styles",
+          "UV Resistant"
+        ],
+        "faq": [
+          {
+            "question": "How do I clean a vinyl fence?",
+            "answer": "Vinyl fences can be easily cleaned with soap and water."
+          },
+          {
+            "question": "Will a vinyl fence fade in the sun?",
+            "answer": "Our vinyl fences are UV-resistant, so they won't fade or discolor over time."
+          },
+          {
+            "question": "Do you offer a warranty on your vinyl fences?",
+            "answer": "Yes, we offer a comprehensive warranty on all of our vinyl fences."
+          }
+        ]
+      },
+      {
+        "slug": "automatic-gates",
+        "name": "Automatic Gates",
+        "shortDescription": "Convenience and security at the touch of a button.",
+        "description": "Enhance the security and convenience of your property with an automatic gate from Go Iron Works Inc. Automatic gates provide controlled access to your property, deterring intruders and providing peace of mind. We offer a wide range of automatic gate options, including swing gates, sliding gates, and barrier gates, to suit your specific needs and budget.\n\nOur experienced team will handle all aspects of the installation process, from site preparation to electrical wiring to gate opener programming. We use only high-quality gate openers and hardware to ensure reliable performance and long-lasting durability. We also offer a variety of access control options, including keypads, remote controls, and intercom systems, to provide you with complete control over who enters your property.\n\nWhether you need an automatic gate for your residential driveway or your commercial parking lot, Go Iron Works Inc. has the expertise and experience to get the job done right. We're committed to providing our customers with the highest quality automatic gates at competitive prices. Experience the convenience and security of an automatic gate from Go Iron Works Inc.",
+        "process": [
+          "Step 1: Site Evaluation: We assess your property to determine the best type and location for your automatic gate.",
+          "Step 2: Gate Selection: We help you choose the right gate style, gate opener, and access control system for your specific needs.",
+          "Step 3: Installation: Our experienced team installs your gate with precision and care, ensuring a secure and reliable installation.",
+          "Step 4: Programming: We program your gate opener and access control system to your desired settings."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Increased Convenience",
+          "Controlled Access",
+          "Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How much does an automatic gate cost?",
+            "answer": "The cost of an automatic gate depends on the type of gate, the gate opener, and the access control system. Contact us for a free quote."
+          },
+          {
+            "question": "Do I need a permit to install an automatic gate?",
+            "answer": "Yes, you typically need a permit to install an automatic gate. We can help you with the permitting process."
+          },
+          {
+            "question": "What happens if the power goes out?",
+            "answer": "Most automatic gates have a battery backup system that will allow you to open and close the gate during a power outage."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair & Maintenance",
+        "shortDescription": "Keeping your Long Beach fence strong and secure.",
+        "description": "Even the most durable fences require occasional repair and maintenance to ensure they continue to provide security and enhance your property's appearance. Go Iron Works Inc. offers comprehensive fence repair and maintenance services throughout Long Beach and surrounding areas. We understand the challenges that Southern California's climate poses to fences, from sun damage and rust to wind damage and termite infestations.\n\nOur experienced team can handle all types of fence repairs, including replacing damaged posts, repairing broken boards, fixing gates, and addressing rust and corrosion. We also offer preventative maintenance services, such as staining, painting, and sealing, to help extend the life of your fence. We work with all types of fencing materials, including wood, vinyl, chain link, and wrought iron.\n\nDon't let a damaged or deteriorating fence compromise your property's security and curb appeal. Contact Go Iron Works Inc. for prompt and reliable fence repair and maintenance services. We're committed to providing our customers with affordable solutions that keep their fences strong and secure for years to come.",
+        "process": [
+          "Step 1: Inspection: We thoroughly inspect your fence to identify any damage or potential problems.",
+          "Step 2: Assessment: We provide you with a detailed assessment of the necessary repairs and a free quote.",
+          "Step 3: Repair: Our experienced team performs the necessary repairs using high-quality materials and proven techniques.",
+          "Step 4: Maintenance: We offer preventative maintenance services to help extend the life of your fence."
+        ],
+        "benefits": [
+          "Restored Security",
+          "Extended Fence Life",
+          "Enhanced Curb Appeal",
+          "Cost-Effective Solutions"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair?",
+            "answer": "Signs that your fence needs repair include leaning posts, broken boards, rust, corrosion, and loose gates."
+          },
+          {
+            "question": "How much does it cost to repair a fence?",
+            "answer": "The cost of fence repair depends on the extent of the damage and the type of fencing material. Contact us for a free quote."
+          },
+          {
+            "question": "Do you offer emergency fence repair services?",
+            "answer": "Yes, we offer emergency fence repair services to address urgent security concerns."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is proud to offer our custom ironwork services to the vibrant city of Los Angeles. From the Hollywood Hills to Downtown LA, we cater to a diverse range of architectural styles, specializing in crafting iron fences, gates, railings, and more that complement the city's unique character. With a population of nearly 4 million, Los Angeles demands quality and durability, and we deliver exactly that with every project. \n\nLos Angeles is renowned for its beautiful 1920s Spanish Colonial Revival architecture. Go Iron Works Inc. understands the importance of maintaining the aesthetic integrity of these historic homes. We offer custom ironwork designs that seamlessly blend with the existing architecture, enhancing the beauty and security of your property. Our experienced team ensures that every project meets the highest standards of craftsmanship.",
+        "localContext": "Los Angeles boasts a warm, dry climate year-round, making durable, weather-resistant ironwork an ideal choice for enhancing properties.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. brings its expertise in custom ironwork to Pasadena, a city known for its rich history and stunning architecture. We specialize in designing and installing iron fences, gates, and railings that perfectly complement the city's many historic homes. Our commitment to quality and craftsmanship ensures that your ironwork will not only enhance the beauty of your property but also provide lasting security and value.\n\nPasadena is famous for its charming 1910s-30s Craftsman bungalows. Go Iron Works Inc. offers custom ironwork solutions that capture the essence of this architectural style. From wrought iron gates with intricate designs to decorative railings that add a touch of elegance, we can create ironwork that seamlessly integrates with the character of your Pasadena home.",
+        "localContext": "Pasadena enjoys a warm, dry climate year-round, making ironwork a practical and aesthetically pleasing choice for enhancing outdoor spaces.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is pleased to provide top-notch ironwork services to the master-planned community of Irvine. We understand the unique needs of Irvine homeowners, offering a wide range of custom iron fences, gates, and railings that enhance the security and curb appeal of your property. Our team is dedicated to delivering exceptional quality and customer satisfaction, ensuring that your ironwork project is a success.\n\nIrvine's master-planned communities feature homes built from the 1970s to the present. Go Iron Works Inc. offers ironwork designs that complement the diverse architectural styles found throughout the city. Whether you're looking for a modern, minimalist design or a more traditional look, we can create custom ironwork that perfectly matches your home's aesthetic.",
+        "localContext": "Irvine's warm and dry climate is ideal for ironwork, which provides long-lasting beauty and security with minimal maintenance.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is proud to serve the growing community of Santa Clarita with our custom ironwork services. We specialize in designing and installing iron fences, gates, railings, and more that enhance the beauty, security, and value of your home. Our team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your ironwork project exceeds your expectations.\n\nSanta Clarita is known for its newer master-planned communities built from the 1990s to the 2020s. Go Iron Works Inc. offers a wide range of ironwork styles that complement the modern architectural designs found throughout the city. Whether you're looking for a sleek and contemporary iron fence or a decorative railing for your balcony, we can create custom ironwork that perfectly suits your needs.",
+        "localContext": "Santa Clarita's warm and dry climate makes ironwork a durable and low-maintenance choice for enhancing the exterior of your home.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is delighted to offer our high-quality ironwork services to the residents of Torrance. We specialize in designing and installing custom iron fences, gates, and railings that enhance the security and beauty of your property. With a focus on craftsmanship and customer satisfaction, we ensure that every project meets the highest standards of excellence.\n\nTorrance is characterized by its 1950s-60s post-war homes. Go Iron Works Inc. provides ironwork solutions that complement the architectural style of these homes. Whether you're looking to add a touch of elegance with a wrought iron gate or enhance your home's security with a sturdy iron fence, we can create custom ironwork that perfectly matches your needs.",
+        "localContext": "Torrance's warm and dry climate makes ironwork a practical and long-lasting choice for enhancing outdoor spaces.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is based in Long Beach, CA and we are proud to serve our local community with top-quality ironwork services. We specialize in designing and installing custom iron fences, gates, railings, and more that enhance the security and beauty of your property. Our team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your ironwork project exceeds your expectations. We understand the unique architectural styles of Long Beach, from historic craftsman homes to modern beachfront properties, and we tailor our designs to complement each individual property.\n\nWhether you're looking to add a touch of elegance to your home with a decorative iron gate or enhance your property's security with a sturdy iron fence, Go Iron Works Inc. is here to help. We use only the highest quality materials and the latest techniques to ensure that your ironwork is built to last.",
+        "localContext": "Long Beach's coastal climate means ironwork needs to be durable and weather-resistant, and we use coatings to ensure longevity.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. extends its exceptional ironwork services to Anaheim, catering to the diverse needs of its residents and businesses. We specialize in crafting custom iron fences, gates, and railings that enhance the security, aesthetics, and value of your property. Our commitment to quality craftsmanship and customer satisfaction ensures a seamless and rewarding experience.\n\nAnaheim's architectural landscape ranges from charming older homes to modern developments. Go Iron Works Inc. offers a wide array of ironwork styles to complement any architectural design. Whether you seek a classic wrought iron fence for a traditional home or a sleek, contemporary railing for a modern building, our skilled artisans will bring your vision to life.",
+        "localContext": "Anaheim's warm and dry climate is conducive to ironwork, making it a lasting and low-maintenance choice for exterior enhancements.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Garden Grove",
+          "Orange"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is pleased to offer its custom ironwork services to the vibrant community of Huntington Beach. We specialize in designing and installing iron fences, gates, railings, and more that enhance the beauty, security, and value of your home or business. Our team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your ironwork project exceeds your expectations.\n\nHuntington Beach is known for its coastal lifestyle and diverse architecture. Go Iron Works Inc. offers a wide range of ironwork styles that complement the unique character of the city. Whether you're looking for a classic wrought iron fence for your beach house or a modern, minimalist railing for your balcony, we can create custom ironwork that perfectly suits your needs.",
+        "localContext": "Huntington Beach's coastal climate requires durable and weather-resistant ironwork, and we use the best materials and techniques to ensure longevity.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Riverside",
+        "slug": "riverside-ca",
+        "state": "CA",
+        "content": "Go Iron Works Inc. is proud to provide its custom ironwork services to the residents and businesses of Riverside. We specialize in designing and installing iron fences, gates, railings, and more that enhance the security, beauty, and value of your property. Our team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your ironwork project is a success.\n\nRiverside is known for its historic architecture and diverse neighborhoods. Go Iron Works Inc. offers a wide range of ironwork styles that complement the unique character of the city. Whether you're looking for a classic wrought iron fence for your Victorian home or a modern, minimalist railing for your commercial building, we can create custom ironwork that perfectly suits your needs.",
+        "localContext": "Riverside's warm and dry climate makes ironwork a durable and low-maintenance choice for enhancing the exterior of your property.",
+        "nearbyAreas": [
+          "Moreno Valley",
+          "Corona",
+          "Jurupa Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "Go Iron Works Inc. did an amazing job installing my new wood fence. They were professional, efficient, and the fence looks fantastic! I highly recommend them to anyone in Long Beach looking for fence work.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Chain Link Fence Repair",
+        "text": "I had a section of my chain link fence damaged by a fallen tree. Go Iron Works Inc. came out quickly and repaired it perfectly. The price was fair, and the service was excellent.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Wrought Iron Gate Installation",
+        "text": "The wrought iron gate Go Iron Works Inc. installed is beautiful and adds so much to the curb appeal of my home. The installers were meticulous and made sure everything was perfect. Great experience!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Vinyl Fence Installation",
+        "text": "I chose Go Iron Works Inc. to install a vinyl privacy fence around my backyard, and I couldn't be happier. The fence is exactly what I wanted, and the installation was quick and clean. Highly recommend!",
+        "date": "2024-07-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Automatic Gate Repair",
+        "text": "My automatic gate stopped working, and Go Iron Works Inc. was able to diagnose and repair the problem quickly. They were knowledgeable and professional, and the price was reasonable.",
+        "date": "2024-05-05"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Fence Repair",
+        "text": "I had a leaning fence post that needed repair. Go Iron Works Inc. came out, assessed the situation, and fixed it quickly and efficiently. Very happy with their service!",
+        "date": "2024-02-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Go Iron Works Inc. | Long Beach Fence Contractor",
+        "description": "Expert fence installation and repair in Long Beach, CA. Wrought iron, wood, vinyl, chain link fences. Free quotes! Call +15625361755"
+      },
+      "about": {
+        "title": "About Go Iron Works Inc. | Long Beach, CA",
+        "description": "Learn about Go Iron Works Inc., a trusted fence contractor in Long Beach, CA. Quality craftsmanship, reliable service, and community commitment."
+      },
+      "services": {
+        "title": "Fence Services | Go Iron Works Inc., Long Beach, CA",
+        "description": "Comprehensive fence services in Long Beach, CA. Wrought iron, wood, vinyl, chain link fence installation, repair, and maintenance. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Go Iron Works Inc. | Long Beach, CA",
+        "description": "Contact Go Iron Works Inc. for all your fence needs in Long Beach, CA. Call +15625361755 for a free quote!"
+      },
+      "reviews": {
+        "title": "Go Iron Works Inc. Reviews | Long Beach, CA",
+        "description": "Read reviews for Go Iron Works Inc., a trusted fence contractor in Long Beach, CA. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | Go Iron Works Inc.",
+        "description": "Go Iron Works Inc. provides fence services throughout Long Beach, CA, Los Angeles, Pasadena, Irvine, Santa Clarita, and Torrance."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "wrought-iron-fences": "/images/service-wrought-iron-fences.webp",
+      "chain-link-fences": "/images/service-chain-link-fences.webp",
+      "wood-fences": "/images/service-wood-fences.webp",
+      "vinyl-fences": "/images/service-vinyl-fences.webp",
+      "automatic-gates": "/images/service-automatic-gates.webp",
+      "fence-repair": "/images/service-fence-repair.webp"
+    },
+    "servicesResponsive": {
+      "wrought-iron-fences": {
+        "src": "/images/service-wrought-iron-fences.webp",
+        "srcset": "/images/service-wrought-iron-fences-400w.webp 400w, /images/service-wrought-iron-fences-800w.webp 800w, /images/service-wrought-iron-fences-1200w.webp 1200w, /images/service-wrought-iron-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "chain-link-fences": {
+        "src": "/images/service-chain-link-fences.webp",
+        "srcset": "/images/service-chain-link-fences-400w.webp 400w, /images/service-chain-link-fences-800w.webp 800w, /images/service-chain-link-fences-1200w.webp 1200w, /images/service-chain-link-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-fences": {
+        "src": "/images/service-wood-fences.webp",
+        "srcset": "/images/service-wood-fences-400w.webp 400w, /images/service-wood-fences-800w.webp 800w, /images/service-wood-fences-1200w.webp 1200w, /images/service-wood-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-fences": {
+        "src": "/images/service-vinyl-fences.webp",
+        "srcset": "/images/service-vinyl-fences-400w.webp 400w, /images/service-vinyl-fences-800w.webp 800w, /images/service-vinyl-fences-1200w.webp 1200w, /images/service-vinyl-fences.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "automatic-gates": {
+        "src": "/images/service-automatic-gates.webp",
+        "srcset": "/images/service-automatic-gates-400w.webp 400w, /images/service-automatic-gates-800w.webp 800w, /images/service-automatic-gates-1200w.webp 1200w, /images/service-automatic-gates.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
